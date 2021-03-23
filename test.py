@@ -1,2 +1,2 @@
 
-print ("This is test python file")
+print ("This is test python file in theia")
